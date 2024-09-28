@@ -87,3 +87,11 @@ a{
     font-size: xx-large;
     color: rgb(209, 165, 111);
 }
+
+.text-recom {
+    color: wheat;
+}
+
+.imgrecom {
+        margin-left: auto;
+}
